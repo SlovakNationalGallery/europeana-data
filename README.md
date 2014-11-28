@@ -10,7 +10,6 @@ http://isg.cedvu.sk/share/europeana-hires.zip
 * [OAI-PMH data provider] (http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Europeana%20SNG) (OAI Protocol for Metadata Harvesting that serves records using XML format)
 
 ###OAI-PMH
-http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Europeana%20SNG
 `getRecord` example: 
 http://www.webumenia.sk/oai-pmh/?verb=GetRecord&metadataPrefix=oai_dc&identifier=SVK%3ASNG.O_80
 
