@@ -5,8 +5,10 @@ metadata and images of Europeana collection from SNG
 
 ##other resources
 
-* high resolution images package:
+* high resolution images package [170 files, 1.43 gb]:
 http://isg.cedvu.sk/share/europeana-hires.zip
+* all jpg thumbnails package [2299 files, 447 mb]:
+http://isg.cedvu.sk/share/europeana-nahlady.zip
 * [OAI-PMH data provider] (http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Europeana%20SNG) (OAI Protocol for Metadata Harvesting that serves records using XML format)
 
 ###OAI-PMH
